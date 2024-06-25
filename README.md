@@ -67,10 +67,10 @@ The **YouTube Video Downloader** is a web application that allows users to downl
 
 ## Screenshots
 
-![Home Page](path-to-homepage-screenshot.png)
+![Home Page](images/HomePage.png)
 *Home Page*
 
-![Download Complete Page](path-to-download-complete-screenshot.png)
+![Download Complete Page](images/Result.png)
 *Download Complete Page*
 
 ## Contributions
